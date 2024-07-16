@@ -1,0 +1,12 @@
+{
+    "name": "nelsam/ges_appro",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/",
+            "Controller\\": "src/controller/",
+            "Model\\": "src/model/",
+            "Core\\": "src/core/"  
+        }
+    },
+    "require": {}
+}
